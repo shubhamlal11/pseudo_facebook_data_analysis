@@ -1,7 +1,7 @@
-Exploratory Analysis of Diamonds
+Exploratory Analysis of Pseudo Facebook Data
 ================================
 
-#### Diamonds Dataset is used from the ggplot2 package from RStudio
+#### Link to [Pseudo Facebook Data]()
 
 Loading the dataset
 -------------------
