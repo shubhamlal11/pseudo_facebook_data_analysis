@@ -1,7 +1,7 @@
 Exploratory Analysis of Pseudo Facebook Data
 ================================
 
-#### Link to [Pseudo Facebook Data]()
+#### Link to [Pseudo Facebook Data](/pseudo_facebook.tsv)
 
 Loading the dataset
 -------------------
